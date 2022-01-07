@@ -1,0 +1,383 @@
+@font-face {
+    font-family: PTSerif;
+    src: url(../font/PTSerif-Regular.ttf);
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../font/Montserrat-Regular.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+}
+
+h1 {
+    position: absolute;
+    width: auto;
+    height: 50px;
+    left: 150px;
+    top: 100px;
+    font-family: PTSerif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.045em;
+    color: #000000;
+}
+
+h2 {
+    position: absolute;
+    width: 117px;
+    height: 27px;
+    left: 650px;
+    top: 110px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+h3 {
+    position: absolute;
+    width: 440px;
+    height: 87px;
+    left: 650px;
+    top: 147px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+/* Box 1 */
+.box-1 {
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 150px;
+    top: 330px;
+}
+
+.box-1 img {
+    position: absolute;
+    width: 300px;
+    height: 426.5px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.box-1 h1 {
+    position: absolute;
+    width: 200px;
+    height: auto;
+    top: 100px;
+    left: 225px;
+    font-family: PTSerif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+}
+
+.box-1 h2 {
+    position: absolute;
+    top: 430px;
+    left: 0;
+    width: auto;
+    height: 27px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+/* Box 1 */
+/* Box 2 */
+.box-2 {
+    position: absolute;
+    width: 300px;
+    height: 475px;
+    left: 540px;
+    top: 375px;
+}
+
+.box-2 img {
+    position: absolute;
+    width: 238px;
+    height: 347px;
+    left: 0;
+    top: 100px;
+    background: #C4C4C4;
+}
+
+.box-2 h1 {
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 220px;
+    top: 133px;
+    font-family: PTSerif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+}
+
+.box-2 h2 {
+    position: absolute;
+    width: auto;
+    height: 30px;
+    left: 0;
+    top: 451px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+/* Box 2 */
+/* Box 3 */
+
+.box-3 {
+    position: absolute;
+    width: 350px;
+    height: 341px;
+    left: 900px;
+    top: 400px;
+}
+
+.box-3 img {
+    position: absolute;
+    width: 238px;
+    height: 347px;
+    left: 0;
+    top: 0;
+    background: #C4C4C4;
+}
+
+.box-3 h1 {
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 225px;
+    top: 20px;
+    font-family: PTSerif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+}
+
+.box-3 h2 {
+    position: absolute;
+    width: auto;
+    height: 30px;
+    left: 0;
+    top: 350px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+/* Box 3 */
+
+/* Box 4 */
+.box-4 {
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 150px;
+    top: 950px;
+}
+
+.box-4 img {
+    position: absolute;
+    width: 300px;
+    height: 426.5px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.box-4 h1 {
+    position: absolute;
+    width: 200px;
+    height: auto;
+    top: 100px;
+    left: 225px;
+    font-family: PTSerif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+}
+
+.box-4 h2 {
+    position: absolute;
+    top: 430px;
+    left: 0;
+    width: 100px;
+    height: 27px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+/* Box 4 */
+
+/* Box 5 */
+.box-5 {
+    position: absolute;
+    width: 300px;
+    height: 475px;
+    left: 534px;
+    top: 945px;
+}
+
+.box-5 img {
+    position: absolute;
+    width: 238px;
+    height: 347px;
+    left: 0;
+    top: 100px;
+    background: #C4C4C4;
+}
+
+.box-5 h1 {
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 220px;
+    top: 133px;
+    font-family: PTSerif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+}
+
+.box-5 h2 {
+    position: absolute;
+    width: auto;
+    height: 30px;
+    left: 0;
+    top: 451px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+/* Box 5 */
+
+/* Box 6 */
+.box-6 {
+    position: absolute;
+    width: 350px;
+    height: 341px;
+    left: 900px;
+    top: 900px;
+}
+
+.box-6 img {
+    position: absolute;
+    width: 238px;
+    height: 347px;
+    left: 0;
+    top: 0;
+    background: #C4C4C4;
+}
+
+.box-6 h1 {
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 225px;
+    top: 20px;
+    font-family: PTSerif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+}
+
+.box-6 h2 {
+    position: absolute;
+    width: auto;
+    height: 30px;
+    left: 0;
+    top: 350px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+/* Box 6 */
+
+p {
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    left: 550px;
+    top: 1500px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #000000;
+}
