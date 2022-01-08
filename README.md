@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](![My-Team-Page](https://user-images.githubusercontent.com/74140729/148650210-6dba5646-3454-4ca4-b7f9-c2ce38f2a141.png))
+![screenshot](https://user-images.githubusercontent.com/74140729/148650267-c732ea41-3b80-4534-ac6a-7ace8f70ce0b.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
