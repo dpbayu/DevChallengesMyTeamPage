@@ -17,7 +17,7 @@
 }
 
 .container {
-    position: relative;
+    position: absolute;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -38,6 +38,7 @@
     font-size: 36px;
     line-height: 48px;
     letter-spacing: -0.045em;
+    color: whitesmoke;
 }
 
 .container .subtitle h2 {
@@ -51,30 +52,39 @@
     font-weight: normal;
     font-size: 18px;
     line-height: 27px;
+    color: whitesmoke;
 }
 
 .container .card {
     display: flex;
-    margin: 0 30px;
+    margin: 20px 30px;
     flex-direction: column;
-    flex-wrap: nowrap;
     height: 350px;
     width: 350px;
-    border: 1px solid #374637;
+    border: 1px solid rgba(255, 255, 255, 0.01);
+    background: rgba(255, 255, 255, 0.06);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
 }
 
 .card .imgBox {
     position: relative;
-    margin-top: 40px;
+    margin: 30px auto 0 auto;
     display: flex;
-    justify-content: center;
+    height: 175px;
+    width: 175px;
+    border-radius: 50%;
+    border: 10px solid rgba(0, 0, 0, 0.25);
 }
 
 .card .imgBox img {
-    position: relative;
-    height: 175px;
-    width: 175px;
-    border-radius: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 50%;
 }
 
 .card .contentBox {
@@ -86,5 +96,45 @@
 }
 
 .card .contentBox h1 {
+    width: auto;
+    height: auto;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: whitesmoke;
+}
 
+.card .contentBox span {
+    color: whitesmoke;
+    width: auto;
+    height: auto;
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+}
+
+.card .social {
+    position: relative;
+    display: flex;
+    margin: 20px auto;
+}
+
+.card .social ul {
+    display: flex;
+}
+
+.card .social ul li {
+    list-style: none;
+    margin: 0 10px;
+    transition: .5s;
+}
+
+.card .social ul li i {
+    font-size: 25px;
+    color: whitesmoke;
 }
