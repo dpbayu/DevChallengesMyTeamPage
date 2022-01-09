@@ -37,13 +37,13 @@
     width: 500px;
     background: linear-gradient(#12c2e9, #c471ed, #f64f59);
     border-radius: 50%;
-    left: -275px;
+    left: -300px;
     top: 100px;
 }
 
 .circles .circle-2 {
     top: 400px;
-    left: 1200px;
+    left: 89%;
     height: 500px;
     width: 500px;
     background: linear-gradient(#ad5389, #3c1053);
