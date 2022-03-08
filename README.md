@@ -8,12 +8,8 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallengesmyteampage.netlify.app/}">
-      Demo
-    </a>
-    <span> | </span>
     <a href="https://devchallengesmyteampage.netlify.app/">
-      Solution
+      Demo
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
@@ -63,11 +59,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [dwiputrabayu.rf.gd](https://dwiputrabayu.rf.gd/)
+- Website [dwiputrabayu.rf.gd](https://dpbayu.rf.gd/)
 - GitHub [@dpbayu](https://github.com/dpbayu)
 - Twitter [@codesvein](https://twitter.comcodesvein)
