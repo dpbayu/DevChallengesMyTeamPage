@@ -36,10 +36,10 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Where can I see your demo? https://devchallengesmyteampage.netlify.app/
+- What was your experience? Very fun and I hope to increase my passion in coding
+- What have you learned/improved? Many things, deepen html and css
+- Your wisdom? Can get better every day
 
 ### Built With
 
