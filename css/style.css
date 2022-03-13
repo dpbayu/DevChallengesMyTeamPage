@@ -70,9 +70,8 @@
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
-    line-height: 48px;
     letter-spacing: -0.045em;
-    color: whitesmoke;
+    color: #111111;
 }
 
 .container .subtitle h2 {
@@ -86,7 +85,7 @@
     font-weight: normal;
     font-size: 18px;
     line-height: 27px;
-    color: whitesmoke;
+    color: #111111;
 }
 
 .container .row {
@@ -105,9 +104,9 @@
     flex-direction: column;
     height: 350px;
     width: 350px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(0, 0, 0, 0.1);
     background: rgba(255, 255, 255, 0.06);
-    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2); 
     border-radius: 20px;
     backdrop-filter: blur(10px)saturate(180%);
 }
@@ -148,11 +147,11 @@
     font-weight: 600;
     font-size: 18px;
     line-height: 27px;
-    color: whitesmoke;
+    color: #111111;
 }
 
 .card .contentBox span {
-    color: whitesmoke;
+    color: #111111;
     width: auto;
     height: auto;
     font-family: PT Serif;
@@ -181,7 +180,7 @@
 
 .card .social ul li i {
     font-size: 25px;
-    color: whitesmoke;
+    color: #111111;
 }
 
 p {
